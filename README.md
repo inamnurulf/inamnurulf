@@ -1,5 +1,6 @@
 <h1 align="center">HELLOO!!</h1>
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="GRRRRR" width="100" src="https://media.tenor.com/8ZpbRdXPnd4AAAAM/programming-crazy.gif">
 <p align="left">
 <a href="https://linkedin.com/in/inamnurul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inamnurul" height="15" width="20" /></a>
 <a href="https://instagram.com/inamnurul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inamnurul" height="15" width="20" /></a>
