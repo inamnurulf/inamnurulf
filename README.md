@@ -1,4 +1,5 @@
 <h1 align="center">HELLOO!!</h1>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inamnurulf&show_icons=true&locale=en" alt="inamnurulf" /></p>
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="GRRRRR" width="100" src="https://media.tenor.com/8ZpbRdXPnd4AAAAM/programming-crazy.gif">
 <p align="left">
